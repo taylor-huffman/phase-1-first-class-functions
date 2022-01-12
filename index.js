@@ -1,5 +1,5 @@
 function receivesAFunction(cb) {
-    console.log(cb());
+    cb();
 }
 
 function returnsANamedFunction() {
